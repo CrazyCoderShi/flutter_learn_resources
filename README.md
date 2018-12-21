@@ -32,6 +32,7 @@
 
 ## Json
 - [dart-json2entity](https://github.com/laxian/dart-json2entity)
+- [ParsingJSON-Flutter](https://github.com/PoojaB26/ParsingJSON-Flutter)
 
 # Blog(相关博文)
 
@@ -54,3 +55,7 @@
 - [Release Flutter的最后一公里](https://juejin.im/post/5b456ebee51d4519277b7761)
 - [Flutter混合工程改造实践
 ](https://juejin.im/post/5b3f098ce51d45199840f4bb)
+
+## Medium
+
+- [Parsing complex JSON in Flutter](https://medium.com/flutter-community/parsing-complex-json-in-flutter-747c46655f51)
