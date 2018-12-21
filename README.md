@@ -30,6 +30,9 @@
 
 - [quiet-flutter](https://github.com/boyan01/quiet-flutter?utm_source=gold_browser_extension)
 
+## Json
+- [dart-json2entity](https://github.com/laxian/dart-json2entity)
+
 # Blog(相关博文)
 
 ## 咸鱼技术组
