@@ -35,6 +35,7 @@
 
 - [dart-json2entity](https://github.com/laxian/dart-json2entity)
 - [ParsingJSON-Flutter](https://github.com/PoojaB26/ParsingJSON-Flutter)
+- [json_serializable](https://github.com/dart-lang/json_serializable)
 
 # Blog(相关博文)
 
