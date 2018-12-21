@@ -56,6 +56,10 @@
 - [Flutter混合工程改造实践
 ](https://juejin.im/post/5b3f098ce51d45199840f4bb)
 
+## 腾讯NOW直播
+
+- [Flutter渲染流程简析](https://juejin.im/post/5b7767fef265da43803bdc65)
+
 ## Medium
 
 - [Parsing complex JSON in Flutter](https://medium.com/flutter-community/parsing-complex-json-in-flutter-747c46655f51)
