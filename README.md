@@ -7,8 +7,28 @@
 
 - [Flutter Official Site](https://flutter.io/)
 - [Dart Offical Site](https://www.dartlang.org/)
+- [Flutter Packages](https://pub.dartlang.org/flutter/packages)
 - [Effective Dart](https://www.dartlang.org/guides/language/effective-dart)
 - [Cook Book](https://flutter.io/docs/cookbook)
+- [Widget catalog](https://flutter.io/docs/development/ui/widgets)
+
+# Repos
+
+## Layout
+
+- [flutter_layout](https://github.com/nb312/flutter_layout?utm_source=gold_browser_extension)
+- [layout_demo_flutter](https://github.com/bizz84/layout-demo-flutter)
+
+## Widget
+
+- [functional_widget](https://github.com/rrousselGit/functional_widget?utm_source=gold_browser_extension)
+
+## Text
+- [RealRichText](https://github.com/bytedance/RealRichText?utm_source=gold_browser_extension)
+
+## App_Demo
+
+- [quiet-flutter](https://github.com/boyan01/quiet-flutter?utm_source=gold_browser_extension)
 
 # Blog(相关博文)
 
