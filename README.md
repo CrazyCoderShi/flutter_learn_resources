@@ -74,3 +74,7 @@
 ## Medium
 
 - [Parsing complex JSON in Flutter](https://medium.com/flutter-community/parsing-complex-json-in-flutter-747c46655f51)
+
+## 其他
+
+- [flutter_architecture_samples](https://github.com/brianegan/flutter_architecture_samples)
