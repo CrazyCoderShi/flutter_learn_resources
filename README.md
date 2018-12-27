@@ -78,3 +78,5 @@
 ## 其他
 
 - [flutter_architecture_samples](https://github.com/brianegan/flutter_architecture_samples)
+- [Flutter_BLoC_pattern_sample](https://shogogeek.com/2018/10/count-up-application-of-bloc-architecture/)
+- [Reactive Programming - Streams - BLoC](https://www.didierboelens.com/2018/08/reactive-programming---streams---bloc/)
